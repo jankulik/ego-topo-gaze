@@ -9,14 +9,14 @@ model = dict(
     pre_trans=dict(
         type="mlp1D",
         num_layers=1,
-        in_channels=2048,
-        h_channels=2048,
-        out_channels=2048
+        in_channels=2869,
+        h_channels=2869,
+        out_channels=2869
     ),
     gfb_module=dict(
         type="GCN",
-        in_dim=2048,
-        h_dim=2048,
+        in_dim=2869,
+        h_dim=2869,
         num_layers=1,
         dropout=0.7,
     ),

@@ -242,7 +242,7 @@ class EpicFutureLabels(Dataset):
 
 
 class EpicFutureLabelsI3D(EpicFutureLabels):
-    def __init__(self, ann_file, label, test_mode, task, dset, fb, lfb_window=64, FPS=60, fb_dim=2048, **kwargs):
+    def __init__(self, ann_file, label, test_mode, task, dset, fb, lfb_window=64, FPS=60, fb_dim=2869, **kwargs):
         super().__init__(ann_file, label, test_mode, task, dset, **kwargs)
         self.fb = mmcv.load(fb)
         self.lfb_window = lfb_window

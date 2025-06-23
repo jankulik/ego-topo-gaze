@@ -2,6 +2,13 @@
 
 from __future__ import division
 
+import sys
+import numpy as np
+
+# alias the missing modules
+sys.modules['numpy._core'] = np.core
+sys.modules['numpy._core._multiarray_umath'] = np.core._multiarray_umath
+
 import argparse
 
 import os

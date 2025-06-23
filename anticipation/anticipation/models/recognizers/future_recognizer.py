@@ -19,7 +19,7 @@ from .. import builder as epic_builder
 
 @RECOGNIZERS.register_module
 class I3DModel(BaseRecognizer):
-    def __init__(self, num_classes, backbone, fc_indim=2048, train_cfg=None, test_cfg=None):
+    def __init__(self, num_classes, backbone, fc_indim=2869, train_cfg=None, test_cfg=None):
         super().__init__()
 
         if backbone is not None:

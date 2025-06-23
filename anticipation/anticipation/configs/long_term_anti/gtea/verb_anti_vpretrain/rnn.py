@@ -8,18 +8,18 @@ model = dict(
     backbone=dict(
         type="mlp1D",
         num_layers=1,
-        in_channels=2048,
-        h_channels=2048,
-        out_channels=2048,
+        in_channels=2869,
+        h_channels=2869,
+        out_channels=2869,
     ),
     lstm=dict(
         type="lstm",
         num_layers=1,
-        in_channels=2048,
-        out_channels=2048,
+        in_channels=2869,
+        out_channels=2869,
         dropout=0.0,
     ),
-    fc_indim=2048,
+    fc_indim=2869,
 )
 
 data = set_dataset_type(data, 'EpicFutureLabelsI3D')

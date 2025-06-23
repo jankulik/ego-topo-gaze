@@ -1,0 +1,346 @@
+{
+  "OP01-R01-PastaSalad": [
+    1,
+    35924
+  ],
+  "OP01-R02-TurkeySandwich": [
+    1,
+    12136
+  ],
+  "OP01-R03-BaconAndEggs": [
+    1,
+    25678
+  ],
+  "OP01-R04-ContinentalBreakfast": [
+    1,
+    11778
+  ],
+  "OP01-R05-Cheeseburger": [
+    1,
+    16059
+  ],
+  "OP01-R06-GreekSalad": [
+    1,
+    20393
+  ],
+  "OP01-R07-Pizza": [
+    1,
+    29641
+  ],
+  "OP02-R01-PastaSalad": [
+    1,
+    13011
+  ],
+  "OP02-R02-TurkeySandwich": [
+    1,
+    9176
+  ],
+  "OP02-R03-BaconAndEggs": [
+    1,
+    19824
+  ],
+  "OP02-R04-ContinentalBreakfast": [
+    1,
+    11245
+  ],
+  "OP02-R05-Cheeseburger": [
+    1,
+    10711
+  ],
+  "OP02-R06-GreekSalad": [
+    1,
+    11194
+  ],
+  "OP02-R07-Pizza": [
+    1,
+    16619
+  ],
+  "OP03-R01-PastaSalad": [
+    1,
+    23731
+  ],
+  "OP03-R02-TurkeySandwich": [
+    1,
+    10284
+  ],
+  "OP03-R03-BaconAndEggs": [
+    1,
+    20120
+  ],
+  "OP03-R04-ContinentalBreakfast": [
+    1,
+    10662
+  ],
+  "OP03-R05-Cheeseburger": [
+    1,
+    20251
+  ],
+  "OP03-R06-GreekSalad": [
+    1,
+    19379
+  ],
+  "OP03-R07-Pizza": [
+    1,
+    17920
+  ],
+  "OP04-R01-PastaSalad": [
+    1,
+    21733
+  ],
+  "OP04-R02-TurkeySandwich": [
+    1,
+    7831
+  ],
+  "OP04-R03-BaconAndEggs": [
+    1,
+    20528
+  ],
+  "OP04-R04-ContinentalBreakfast": [
+    1,
+    13020
+  ],
+  "OP04-R05-Cheeseburger": [
+    1,
+    11262
+  ],
+  "OP04-R06-GreekSalad": [
+    1,
+    8719
+  ],
+  "OP04-R07-Pizza": [
+    1,
+    15160
+  ],
+  "OP05-R03-BaconAndEggs": [
+    1,
+    17212
+  ],
+  "OP05-R04-ContinentalBreakfast": [
+    1,
+    11373
+  ],
+  "OP05-R07-Pizza": [
+    1,
+    9707
+  ],
+  "OP06-R02-TurkeySandwich": [
+    1,
+    12034
+  ],
+  "OP06-R03-BaconAndEggs": [
+    1,
+    18609
+  ],
+  "OP06-R04-ContinentalBreakfast": [
+    1,
+    10449
+  ],
+  "OP06-R05-Cheeseburger": [
+    1,
+    16310
+  ],
+  "OP06-R06-GreekSalad": [
+    1,
+    11612
+  ],
+  "OP06-R07-Pizza": [
+    1,
+    15755
+  ],
+  "P01-R01-PastaSalad": [
+    1181,
+    32463
+  ],
+  "P01-R02-TurkeySandwich": [
+    1113,
+    25746
+  ],
+  "P02-R01-PastaSalad": [
+    741,
+    42046
+  ],
+  "P02-R03-BaconAndEggs": [
+    1557,
+    42245
+  ],
+  "P02-R04-ContinentalBreakfast": [
+    1209,
+    31027
+  ],
+  "P02-R05-Cheeseburger": [
+    573,
+    24503
+  ],
+  "P02-R06-GreekSalad": [
+    973,
+    14880
+  ],
+  "P03-R01-PastaSalad": [
+    2321,
+    58921
+  ],
+  "P04-R01-PastaSalad": [
+    1817,
+    50989
+  ],
+  "P04-R05-Cheeseburger": [
+    1613,
+    24314
+  ],
+  "P04-R06-GreekSalad": [
+    1157,
+    31653
+  ],
+  "P05-R01-PastaSalad": [
+    2353,
+    39548
+  ],
+  "P05-R02-TurkeySandwich": [
+    1657,
+    20044
+  ],
+  "P06-R01-PastaSalad": [
+    1833,
+    32594
+  ],
+  "P06-R02-TurkeySandwich": [
+    1253,
+    12957
+  ],
+  "P07-R01-PastaSalad": [
+    685,
+    59734
+  ],
+  "P08-R01-PastaSalad": [
+    1265,
+    51356
+  ],
+  "P09-R01-PastaSalad": [
+    1357,
+    46679
+  ],
+  "P09-R02-TurkeySandwich": [
+    693,
+    15457
+  ],
+  "P10-R01-PastaSalad": [
+    1,
+    45760
+  ],
+  "P10-R02-TurkeySandwich": [
+    637,
+    10515
+  ],
+  "P10-R05-Cheeseburger": [
+    961,
+    23838
+  ],
+  "P10-R06-GreekSalad": [
+    961,
+    19480
+  ],
+  "P11-R01-PastaSalad": [
+    1145,
+    55500
+  ],
+  "P11-R02-TurkeySandwich": [
+    849,
+    16330
+  ],
+  "P12-R01-PastaSalad": [
+    965,
+    43067
+  ],
+  "P12-R02-TurkeySandwich": [
+    865,
+    13136
+  ],
+  "P13-R01-PastaSalad": [
+    1529,
+    74653
+  ],
+  "P14-R01-PastaSalad": [
+    997,
+    49195
+  ],
+  "P14-R02-TurkeySandwich": [
+    1385,
+    19899
+  ],
+  "P15-R01-PastaSalad": [
+    2173,
+    40433
+  ],
+  "P16-R03-BaconAndEggs": [
+    1817,
+    54500
+  ],
+  "P17-R03-BaconAndEggs": [
+    2701,
+    39666
+  ],
+  "P17-R04-ContinentalBreakfast": [
+    1593,
+    26476
+  ],
+  "P18-R03-BaconAndEggs": [
+    1377,
+    42713
+  ],
+  "P18-R04-ContinentalBreakfast": [
+    1249,
+    21605
+  ],
+  "P19-R03-BaconAndEggs": [
+    2153,
+    39939
+  ],
+  "P19-R04-ContinentalBreakfast": [
+    1157,
+    19192
+  ],
+  "P20-R03-BaconAndEggs": [
+    1589,
+    32170
+  ],
+  "P20-R04-ContinentalBreakfast": [
+    1389,
+    24436
+  ],
+  "P21-R03-BaconAndEggs": [
+    1393,
+    38721
+  ],
+  "P21-R04-ContinentalBreakfast": [
+    957,
+    41417
+  ],
+  "P21-R05-Cheeseburger": [
+    961,
+    23488
+  ],
+  "P21-R06-GreekSalad": [
+    1873,
+    35206
+  ],
+  "P22-R03-BaconAndEggs": [
+    1149,
+    79377
+  ],
+  "P23-R03-BaconAndEggs": [
+    1529,
+    60366
+  ],
+  "P24-R03-BaconAndEggs": [
+    1737,
+    52831
+  ],
+  "P25-R06-GreekSalad": [
+    1813,
+    57535
+  ],
+  "P26-R05-Cheeseburger": [
+    1281,
+    43860
+  ]
+}

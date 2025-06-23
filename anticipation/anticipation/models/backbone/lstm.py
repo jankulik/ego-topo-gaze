@@ -17,8 +17,8 @@ class lstm(nn.Module):
     def __init__(
         self,
         num_layers=2,
-        in_channels=2048,
-        out_channels=2048,
+        in_channels=2869,
+        out_channels=2869,
         dropout=0.0,
     ):
         super(lstm, self).__init__()

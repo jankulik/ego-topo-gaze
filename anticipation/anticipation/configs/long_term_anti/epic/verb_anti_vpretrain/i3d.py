@@ -8,9 +8,9 @@ model = dict(
     backbone=dict(
         type="mlp1D",
         num_layers=2,
-        in_channels=2048,
-        h_channels=2048,
-        out_channels=2048
+        in_channels=2869,
+        h_channels=2869,
+        out_channels=2869
     )
 )
 

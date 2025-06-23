@@ -17,9 +17,9 @@ class mlp(nn.Module):
     def __init__(
         self,
         num_layers=2,
-        in_channels=2048,
-        h_channels=2048,
-        out_channels=2048
+        in_channels=2869,
+        h_channels=2869,
+        out_channels=2869
     ):
         super(mlp, self).__init__()
         
@@ -51,9 +51,9 @@ class mlp1D(nn.Module):
     def __init__(
         self,
         num_layers=2,
-        in_channels=2048,
-        h_channels=2048,
-        out_channels=2048
+        in_channels=2869,
+        h_channels=2869,
+        out_channels=2869
     ):
         super(mlp1D, self).__init__()
         

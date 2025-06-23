@@ -13,7 +13,7 @@ import mmcv
 class NetVLAD(nn.Module):
     """NetVLAD layer implementation"""
 
-    def __init__(self, centroids_path, num_clusters=64, dim=2048, out_dim=2048,
+    def __init__(self, centroids_path, num_clusters=64, dim=2869, out_dim=2869,
                  normalize_input=True, vladv2=False):
         """
         Args:

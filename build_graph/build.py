@@ -333,7 +333,7 @@ class EnvGraph:
         return frame   
         
 
-    def viz(self, i, block_size=512, img_sz=100, nsz=50, out_sz=2048):
+    def viz(self, i, block_size=512, img_sz=100, nsz=50, out_sz=2869):
 
         if not self.args.viz:
             return

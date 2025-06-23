@@ -9,13 +9,13 @@ model = dict(
     backbone=dict(
         type="NetVLAD",
         centroids_path=centroids_path,
-        dim=2048,
-        out_dim=2048,
+        dim=2869,
+        out_dim=2869,
         num_clusters=64,
         normalize_input=False,
         vladv2=True,
     ),
-    fc_indim=2048,
+    fc_indim=2869,
 )
 
 data = set_dataset_type(data, 'EpicFutureLabelsI3D')
